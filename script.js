@@ -7,7 +7,7 @@ const modelSelect = document.getElementById("model-select");
 const countSelect = document.getElementById("count-select");
 const ratioSelect = document.getElementById("ratio-select");
 const gridGallery = document.getElementById("gallery-grid");
-const API_KEY = "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";
+const API_KEY = "HUGGING-FACE-TOKKEN";
 const examplePrompts = [
     "A magic forest with glowing plants and fairy homes among giant mushrooms",
     "An old steampunk airship floating through golden clouds at sunset",
